@@ -1,2 +1,2 @@
 # GrupaSZSroda
-Repozutorium grupy srednio-zaawansowanej (sroda).
+Repozytorium grupy srednio-zaawansowanej (sroda).
